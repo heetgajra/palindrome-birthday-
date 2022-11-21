@@ -1,0 +1,45 @@
+body {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-color: #3f266d;
+  color: #ad6767;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+  padding: 2rem;
+}
+
+.birth-day {
+  margin: 1rem;
+  border-radius: 0.5rem;
+  border-color: #ba4f4f;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+}
+
+#check-btn {
+  padding: 1rem 1rem;
+}
+
+button {
+  border-radius: 0.5rem;
+  border-color: #9cad1a;
+  width: 100px;
+  height: 50px;
+}
+
+#showMessage {
+  font-size: x-large;
+  margin-bottom: 0.5rem;
+}
